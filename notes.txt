@@ -1,0 +1,8 @@
+1-npm init-this will install package.json
+2-now we need  dependancies in our project
+3-we will install parcel, 'npm install parcel'
+4-'npx parcel index.html'-'building out app'- this is dev build
+5-'npx parcel build index.html'- this is production build.
+6-create scripts for starting project  in dev mode-
+start= parcel index.html
+build= parcel build index.html 

@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react_assignments",
+  "version": "1.0.0",
+  "description": "all namaste-react-assignment",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "akanksha2306"
+  },
+  "keywords": [
+    "reactjs",
+    "react",
+    "frontend"
+  ],
+  "author": "akanksha",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
